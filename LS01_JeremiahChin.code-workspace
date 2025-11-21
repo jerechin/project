@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../LS01_JeremiahChin"
+		},
+		{
+			"path": "../../../Downloads/SDL/SDL"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02_JeremiahChin_WDEProject"
+	}
+}
